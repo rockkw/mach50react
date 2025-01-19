@@ -1,0 +1,18 @@
+body{
+  width: 100vw;
+  height: 100vh;
+
+  background-image: url(./assets/images/bg2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+
+  font-family: "fairplex-wide";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

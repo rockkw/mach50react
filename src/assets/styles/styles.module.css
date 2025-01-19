@@ -1,0 +1,142 @@
+
+.heading {
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: -0.3rem;
+  font-size: 5rem;
+  }
+
+  .heading h1 {
+      color: #b00404;
+      font-weight: 400;
+      font-size: 5rem;
+    }
+  
+  .signup {
+      /*background: #000;*/
+      color: #fff;
+      text-align: center;
+      padding: 5rem 0
+  }
+  
+  .signup .icon-w {
+      max-width: 50%
+  }
+
+  .signup form {
+    max-width: 45rem;
+    margin: 1.875rem auto;
+    overflow: hidden
+}
+
+
+.signup p {
+  max-width: 45rem;
+  margin: 1.875rem auto;
+  overflow: hidden;
+  text-align: center;
+  
+  font-style: italic;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  font-size: 1rem;
+}
+
+.signup form input {
+    background: #333;
+    border: 1px solid transparent;
+    color: #fff;
+    padding: .3125rem;
+    outline: none;
+    width: 100%
+}
+
+.signup form button {
+  background: #f3f0f0;
+  border: 1px solid transparent;
+  color: #000;
+  font-weight: 700;
+  text-transform: uppercase;
+  outline: none;
+  width: 100%
+}
+
+.apps {
+  margin: 5.875rem 0
+}
+
+
+.iconfb {
+  background: url(../images/wr-home-facebook.png) no-repeat;
+  height: 1.5625rem;
+  width: 1.5625rem
+}
+
+.icontw {
+  background: url(../images/wr-home-twitter.png) no-repeat
+}
+
+.iconig {
+  background: url(../images/wr-home-instagram.png) no-repeat
+}
+
+.iconwc {
+  background: url(../images/wr-home-wechat.png) no-repeat;
+  width: 1.8125rem
+}
+
+.iconwb {
+  background: url(../images/wr-home-weibo.png) no-repeat;
+  width: 1.6875rem
+}
+
+/*MENU*/
+
+.menu {
+  
+  text-align: center;
+}
+
+
+.menu button {
+
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: #fff;
+  border: 1px solid transparent;
+  border-radius: 1.25rem;
+  color: #0416a0;
+  font-size: 1.25rem;
+  /* text-transform: uppercase; */
+  padding: .3125rem 1.5625rem;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: .3rem;
+
+
+}
+
+/*SERVICES*/
+
+.services {
+  
+  color: #fff;
+  text-align: center;
+  padding: 5rem 0;
+  font-style: italic;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  font-size: 1rem;
+}
